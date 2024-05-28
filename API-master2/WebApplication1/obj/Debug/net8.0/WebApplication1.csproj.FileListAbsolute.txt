@@ -1,0 +1,108 @@
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Core.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\DataBase.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\Core.pdb
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\bin\Debug\net8.0\DataBase.pdb
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Filip\Desktop\facultate\anul2\sem2\RC\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Core.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\DataBase.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\Core.pdb
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\bin\Debug\net8.0\DataBase.pdb
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Alin Sârbu\OneDrive\Desktop\API-master2\API-master2\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
