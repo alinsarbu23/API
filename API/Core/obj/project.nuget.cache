@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OgwuvGfL0Wu08IV/u4MKqi+Dd3QP2XhW2IJbV9ZpEVKdNKPYgbKaWsHzVInHrjshKCFmIxnfkBesjOmFGqZKVw==",
+  "dgSpecHash": "+izBlEEdDJvADA7Bhc/tKLVtQ/HeYOM+6DBK+gMSt3G98uQ6BItTzdPZUgWxIX2Cpccwb8JvqlZZH7103fJbdw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alin Sârbu\\OneDrive\\Desktop\\API\\API\\Core\\Core.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,10 @@
     "C:\\Users\\Alin Sârbu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Alin Sârbu\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\Alin Sârbu\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alin Sârbu\\.nuget\\packages\\microsoft.netcore.jit\\1.0.2\\microsoft.netcore.jit.1.0.2.nupkg.sha512",
+    "C:\\Users\\Alin Sârbu\\.nuget\\packages\\microsoft.netcore.portable.compatibility\\1.0.2\\microsoft.netcore.portable.compatibility.1.0.2.nupkg.sha512",
+    "C:\\Users\\Alin Sârbu\\.nuget\\packages\\microsoft.netcore.runtime.coreclr\\1.0.2\\microsoft.netcore.runtime.coreclr.1.0.2.nupkg.sha512",
+    "C:\\Users\\Alin Sârbu\\.nuget\\packages\\microsoft.netcore.windows.apisets\\1.0.1\\microsoft.netcore.windows.apisets.1.0.1.nupkg.sha512",
     "C:\\Users\\Alin Sârbu\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512",
     "C:\\Users\\Alin Sârbu\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.2\\npgsql.entityframeworkcore.postgresql.8.0.2.nupkg.sha512"
   ],

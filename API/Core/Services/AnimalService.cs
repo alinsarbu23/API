@@ -45,17 +45,17 @@ namespace Core.Services
             await _animalRepository.AddAsync(animal);
         }
 
-
-
-
-        // Add other service methods as needed
-
         private AnimalModel MapAnimalToModel(Animal animal)
         {
             if (animal == null)
                 return null;
 
-            return new AnimalModel { Id = animal.Id, Name = animal.Name, Species = animal.Species };
+            return new AnimalModel
+            {
+                Id = animal.Id,
+                Name = animal.Name,
+                Species = animal.Species
+            };
         }
     }
 }

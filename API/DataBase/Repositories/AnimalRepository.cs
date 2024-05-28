@@ -1,6 +1,7 @@
 ﻿using DataBase.Entities;
 using DataBase.Context;
 using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -34,10 +35,9 @@ namespace DataBase.Repositories
             return await _db.Animals.FindAsync(id);
         }
 
-        // Implementarea metodei care arunca o excepție
         public async Task<IEnumerable<Animal>> GetAnimalsWithOwnersAsync()
         {
-            throw new NotImplementedException("This method is not implemented in AnimalRepository.");
+            return await _db.Animals.Include(animal => animal.Owner).ToListAsync();
         }
     }
 }

@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Core.Services;
+using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
-using Core.Services;
 
 namespace API.Controllers
 {

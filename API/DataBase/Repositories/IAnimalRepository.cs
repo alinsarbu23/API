@@ -9,6 +9,6 @@ namespace DataBase.Repositories
         Task<IEnumerable<Animal>> GetAllAnimalsAsync();
         Task<Animal> GetAnimalByIdAsync(int id);
         Task<IEnumerable<Animal>> GetAnimalsWithOwnersAsync();
-        Task AddAsync(Animal animal); // Adăugăm o metodă AddAsync care primește un obiect Animal
+        Task AddAsync(Animal animal);
     }
 }
