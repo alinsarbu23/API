@@ -1,70 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\",
+  "WorkspaceRootPath": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api-master\\api-master\\database\\context\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api\\api\\database\\context\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|solutionrelative:database\\context\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api-master\\api-master\\database\\migrations\\projectdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api\\api\\database\\migrations\\projectdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|solutionrelative:database\\migrations\\projectdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api-master\\api-master\\database\\migrations\\20240421233502_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api\\api\\database\\migrations\\20240421233502_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|solutionrelative:database\\migrations\\20240421233502_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B2086D8-F787-4AFD-ACE9-F71C707D11F4}|Core\\Core.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api-master\\api-master\\core\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2086D8-F787-4AFD-ACE9-F71C707D11F4}|Core\\Core.csproj|solutionrelative:core\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2086D8-F787-4AFD-ACE9-F71C707D11F4}|Core\\Core.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api-master\\api-master\\core\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2086D8-F787-4AFD-ACE9-F71C707D11F4}|Core\\Core.csproj|solutionrelative:core\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2086D8-F787-4AFD-ACE9-F71C707D11F4}|Core\\Core.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api-master\\api-master\\core\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2086D8-F787-4AFD-ACE9-F71C707D11F4}|Core\\Core.csproj|solutionrelative:core\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2086D8-F787-4AFD-ACE9-F71C707D11F4}|Core\\Core.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api-master\\api-master\\core\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2086D8-F787-4AFD-ACE9-F71C707D11F4}|Core\\Core.csproj|solutionrelative:core\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2086D8-F787-4AFD-ACE9-F71C707D11F4}|Core\\Core.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api-master\\api-master\\core\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2086D8-F787-4AFD-ACE9-F71C707D11F4}|Core\\Core.csproj|solutionrelative:core\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\database\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api\\api\\database\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|solutionrelative:database\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\database\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|solutionrelative:database\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Services\\BookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Services\\IAuthorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Models\\BookModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\database\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7862BD2A-1549-4A3E-BA05-2295DE994757}|DataBase\\DataBase.csproj|solutionrelative:database\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Models\\AuthorModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Services\\AuthorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Repositories\\IAuthorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\webapplication1\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Repositories\\AuthorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\API.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api\\api\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\API.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\API.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api\\api\\webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\API.csproj|solutionrelative:webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\API.csproj|c:\\users\\alin s\u00E2rbu\\onedrive\\desktop\\api\\api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80D308-87A9-47AC-B119-A05407907C59}|WebApplication1\\API.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\WebApplication1\\WebApplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\WebApplication1\\Controllers\\AuthorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,15 +65,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProjectDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Context\\ProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\DataBase\\Context\\ProjectDbContext.cs",
               "RelativeDocumentMoniker": "DataBase\\Context\\ProjectDbContext.cs",
-              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Context\\ProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\DataBase\\Context\\ProjectDbContext.cs",
               "RelativeToolTip": "DataBase\\Context\\ProjectDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,112 +96,105 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProjectDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Migrations\\ProjectDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\DataBase\\Migrations\\ProjectDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "DataBase\\Migrations\\ProjectDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Migrations\\ProjectDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\DataBase\\Migrations\\ProjectDbContextModelSnapshot.cs",
               "RelativeToolTip": "DataBase\\Migrations\\ProjectDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T16:56:24.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T16:56:24.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "20240421233502_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Migrations\\20240421233502_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\DataBase\\Migrations\\20240421233502_InitialCreate.cs",
               "RelativeDocumentMoniker": "DataBase\\Migrations\\20240421233502_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Migrations\\20240421233502_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\DataBase\\Migrations\\20240421233502_InitialCreate.cs",
               "RelativeToolTip": "DataBase\\Migrations\\20240421233502_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T16:56:23.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Services\\BookService.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\BookService.cs",
-              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Services\\BookService.cs",
-              "RelativeToolTip": "Core\\Services\\BookService.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T16:41:25.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T16:56:23.401Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "..\\..\\API-master\\API-master\\Core\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Services\\BookService.cs",
+              "RelativeToolTip": "..\\..\\API-master\\API-master\\Core\\Services\\BookService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:41:25.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IAuthorService.cs",
               "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Services\\IAuthorService.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\API-master\\API-master\\Core\\Services\\IAuthorService.cs",
               "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Services\\IAuthorService.cs",
-              "RelativeToolTip": "Core\\Services\\IAuthorService.cs",
+              "RelativeToolTip": "..\\..\\API-master\\API-master\\Core\\Services\\IAuthorService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T16:41:24.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T16:41:24.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "BookModel.cs",
               "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Models\\BookModel.cs",
-              "RelativeDocumentMoniker": "Core\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\API-master\\API-master\\Core\\Models\\BookModel.cs",
               "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Models\\BookModel.cs",
-              "RelativeToolTip": "Core\\Models\\BookModel.cs",
+              "RelativeToolTip": "..\\..\\API-master\\API-master\\Core\\Models\\BookModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T16:37:42.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T16:37:42.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "AuthorModel.cs",
               "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Models\\AuthorModel.cs",
-              "RelativeDocumentMoniker": "Core\\Models\\AuthorModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\API-master\\API-master\\Core\\Models\\AuthorModel.cs",
               "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Models\\AuthorModel.cs",
-              "RelativeToolTip": "Core\\Models\\AuthorModel.cs",
+              "RelativeToolTip": "..\\..\\API-master\\API-master\\Core\\Models\\AuthorModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T16:37:07.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T16:37:07.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AuthorService.cs",
               "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Services\\AuthorService.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\API-master\\API-master\\Core\\Services\\AuthorService.cs",
               "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\Core\\Services\\AuthorService.cs",
-              "RelativeToolTip": "Core\\Services\\AuthorService.cs",
+              "RelativeToolTip": "..\\..\\API-master\\API-master\\Core\\Services\\AuthorService.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T16:59:19.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T16:59:19.389Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "IAuthorRepository.cs",
               "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Repositories\\IAuthorRepository.cs",
-              "RelativeDocumentMoniker": "DataBase\\Repositories\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\API-master\\API-master\\DataBase\\Repositories\\IAuthorRepository.cs",
               "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Repositories\\IAuthorRepository.cs",
-              "RelativeToolTip": "DataBase\\Repositories\\IAuthorRepository.cs",
+              "RelativeToolTip": "..\\..\\API-master\\API-master\\DataBase\\Repositories\\IAuthorRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T16:58:38.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Repositories\\BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\DataBase\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "DataBase\\Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\DataBase\\Repositories\\BaseRepository.cs",
               "RelativeToolTip": "DataBase\\Repositories\\BaseRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,23 +202,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "AuthorRepository.cs",
               "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Repositories\\AuthorRepository.cs",
-              "RelativeDocumentMoniker": "DataBase\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\API-master\\API-master\\DataBase\\Repositories\\AuthorRepository.cs",
               "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\DataBase\\Repositories\\AuthorRepository.cs",
-              "RelativeToolTip": "DataBase\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "..\\..\\API-master\\API-master\\DataBase\\Repositories\\AuthorRepository.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwB4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T16:57:47.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\WebApplication1\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\WebApplication1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\WebApplication1\\Properties\\launchSettings.json",
               "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -230,11 +226,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\WebApplication1\\Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\WebApplication1\\Startup.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Startup.cs",
-              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\WebApplication1\\Startup.cs",
+              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\WebApplication1\\Startup.cs",
               "RelativeToolTip": "WebApplication1\\Startup.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAswBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -242,11 +238,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API\\API\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAQwA8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,11 +251,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "WebApplication1",
+              "Title": "WebApplication1.csproj",
               "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\WebApplication1\\WebApplication1.csproj",
-              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "..\\..\\API-master\\API-master\\WebApplication1\\WebApplication1.csproj",
               "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\WebApplication1\\WebApplication1.csproj",
-              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "..\\..\\API-master\\API-master\\WebApplication1\\WebApplication1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-22T16:55:18.338Z"
             },
@@ -268,9 +264,9 @@
               "DocumentIndex": 15,
               "Title": "AuthorController.cs",
               "DocumentMoniker": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\WebApplication1\\Controllers\\AuthorController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "..\\..\\API-master\\API-master\\WebApplication1\\Controllers\\AuthorController.cs",
               "ToolTip": "C:\\Users\\Alin S\u00E2rbu\\OneDrive\\Desktop\\API-master\\API-master\\WebApplication1\\Controllers\\AuthorController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "..\\..\\API-master\\API-master\\WebApplication1\\Controllers\\AuthorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T16:33:11.68Z"
